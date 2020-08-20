@@ -1,0 +1,634 @@
+C:\Users\Asus\CodeBlocks-workspace\ECSE 202 Assignment 6>Database NamesIDs.txt marks.txt
+Building database...
+
+Student Name:           Dante Galentine
+Student ID:             1194
+Total Grade:            89
+
+Student Name:           Ciera Woolery
+Student ID:             1531
+Total Grade:            81
+
+Student Name:           Dorethea Benes
+Student ID:             2583
+Total Grade:            97
+
+Student Name:           Teisha Britto
+Student ID:             2871
+Total Grade:            68
+
+Student Name:           Clarisa Freeze
+Student ID:             2135
+Total Grade:            70
+
+Student Name:           Nia Stutes
+Student ID:             2872
+Total Grade:            97
+
+Student Name:           Billy Ennals
+Student ID:             2191
+Total Grade:            82
+
+Student Name:           Cristobal Butcher
+Student ID:             2969
+Total Grade:            77
+
+Student Name:           Suzi Tait
+Student ID:             2519
+Total Grade:            82
+
+Student Name:           Loree Foor
+Student ID:             1370
+Total Grade:            74
+
+Student Name:           Yuonne Daggett
+Student ID:             2029
+Total Grade:            74
+
+Student Name:           Tasia Cranford
+Student ID:             2274
+Total Grade:            73
+
+Student Name:           Francene Aylor
+Student ID:             2728
+Total Grade:            72
+
+Student Name:           Stasia Wolford
+Student ID:             2193
+Total Grade:            68
+
+Student Name:           Jay Woll
+Student ID:             2986
+Total Grade:            76
+
+Student Name:           Caleb Denning
+Student ID:             1257
+Total Grade:            71
+
+Student Name:           Suzanna Duff
+Student ID:             1583
+Total Grade:            91
+
+Student Name:           Filomena Leasure
+Student ID:             1946
+Total Grade:            79
+
+Student Name:           Hyon Thibodaux
+Student ID:             2985
+Total Grade:            87
+
+Student Name:           Anika Pop
+Student ID:             1452
+Total Grade:            76
+
+Student Name:           Lucia Lally
+Student ID:             1359
+Total Grade:            76
+
+Student Name:           Sammie Mackay
+Student ID:             2330
+Total Grade:            90
+
+Student Name:           Kamala Harbison
+Student ID:             1645
+Total Grade:            92
+
+Student Name:           Dewey Manzi
+Student ID:             2563
+Total Grade:            77
+
+Student Name:           Shantelle Cassady
+Student ID:             2079
+Total Grade:            94
+
+Student Name:           Vanda Lamarr
+Student ID:             1456
+Total Grade:            82
+
+Student Name:           Joleen Saulnier
+Student ID:             2356
+Total Grade:            81
+
+Student Name:           Alona Mclees
+Student ID:             1097
+Total Grade:            99
+
+Student Name:           Kerstin Kohls
+Student ID:             2130
+Total Grade:            92
+
+Student Name:           Lavinia Jenkinson
+Student ID:             2959
+Total Grade:            86
+
+Student Name:           Renita Allbright
+Student ID:             1716
+Total Grade:            81
+
+Student Name:           Kristyn Lanoue
+Student ID:             2101
+Total Grade:            72
+
+Student Name:           Felicita Mushrush
+Student ID:             2825
+Total Grade:            76
+
+Student Name:           Sarita Gutierez
+Student ID:             1512
+Total Grade:            95
+
+Student Name:           Dianne Plaisted
+Student ID:             2637
+Total Grade:            57
+
+Student Name:           Edward Follett
+Student ID:             1345
+Total Grade:            71
+
+Student Name:           Matilda Poll
+Student ID:             2729
+Total Grade:            75
+
+Student Name:           Mariann Novack
+Student ID:             1549
+Total Grade:            79
+
+Student Name:           Yvette Wojtowicz
+Student ID:             2667
+Total Grade:            59
+
+Student Name:           Marvella Greenlee
+Student ID:             2582
+Total Grade:            82
+
+Student Name:           Kortney Arner
+Student ID:             1371
+Total Grade:            84
+
+Student Name:           Matilde Spece
+Student ID:             2917
+Total Grade:            68
+
+Student Name:           Holley Sia
+Student ID:             1497
+Total Grade:            74
+
+Student Name:           Kori Marsch
+Student ID:             2524
+Total Grade:            65
+
+Student Name:           Tamie Roza
+Student ID:             2586
+Total Grade:            93
+
+Student Name:           Dara Boyette
+Student ID:             1974
+Total Grade:            81
+
+Student Name:           Luba Quaranta
+Student ID:             2790
+Total Grade:            75
+
+Student Name:           Barton Mango
+Student ID:             1198
+Total Grade:            68
+
+Student Name:           Eleanora Hamel
+Student ID:             1266
+Total Grade:            78
+
+Student Name:           Adria Tamplin
+Student ID:             2675
+Total Grade:            94
+Finished, 50 records found...
+sdb> LN
+Student Record Database sorted by Last Name
+
+Student Name:           Renita Allbright
+Student ID:             1716
+Total Grade:            81
+
+Student Name:           Kortney Arner
+Student ID:             1371
+Total Grade:            84
+
+Student Name:           Francene Aylor
+Student ID:             2728
+Total Grade:            72
+
+Student Name:           Dorethea Benes
+Student ID:             2583
+Total Grade:            97
+
+Student Name:           Dara Boyette
+Student ID:             1974
+Total Grade:            81
+
+Student Name:           Teisha Britto
+Student ID:             2871
+Total Grade:            68
+
+Student Name:           Cristobal Butcher
+Student ID:             2969
+Total Grade:            77
+
+Student Name:           Shantelle Cassady
+Student ID:             2079
+Total Grade:            94
+
+Student Name:           Tasia Cranford
+Student ID:             2274
+Total Grade:            73
+
+Student Name:           Yuonne Daggett
+Student ID:             2029
+Total Grade:            74
+
+Student Name:           Caleb Denning
+Student ID:             1257
+Total Grade:            71
+
+Student Name:           Suzanna Duff
+Student ID:             1583
+Total Grade:            91
+
+Student Name:           Billy Ennals
+Student ID:             2191
+Total Grade:            82
+
+Student Name:           Edward Follett
+Student ID:             1345
+Total Grade:            71
+
+Student Name:           Loree Foor
+Student ID:             1370
+Total Grade:            74
+
+Student Name:           Clarisa Freeze
+Student ID:             2135
+Total Grade:            70
+
+Student Name:           Dante Galentine
+Student ID:             1194
+Total Grade:            89
+
+Student Name:           Marvella Greenlee
+Student ID:             2582
+Total Grade:            82
+
+Student Name:           Sarita Gutierez
+Student ID:             1512
+Total Grade:            95
+
+Student Name:           Eleanora Hamel
+Student ID:             1266
+Total Grade:            78
+
+Student Name:           Kamala Harbison
+Student ID:             1645
+Total Grade:            92
+
+Student Name:           Lavinia Jenkinson
+Student ID:             2959
+Total Grade:            86
+
+Student Name:           Kerstin Kohls
+Student ID:             2130
+Total Grade:            92
+
+Student Name:           Lucia Lally
+Student ID:             1359
+Total Grade:            76
+
+Student Name:           Vanda Lamarr
+Student ID:             1456
+Total Grade:            82
+
+Student Name:           Kristyn Lanoue
+Student ID:             2101
+Total Grade:            72
+
+Student Name:           Filomena Leasure
+Student ID:             1946
+Total Grade:            79
+
+Student Name:           Sammie Mackay
+Student ID:             2330
+Total Grade:            90
+
+Student Name:           Dewey Manzi
+Student ID:             2563
+Total Grade:            77
+
+Student Name:           Barton Mango
+Student ID:             1198
+Total Grade:            68
+
+Student Name:           Kori Marsch
+Student ID:             2524
+Total Grade:            65
+
+Student Name:           Alona Mclees
+Student ID:             1097
+Total Grade:            99
+
+Student Name:           Felicita Mushrush
+Student ID:             2825
+Total Grade:            76
+
+Student Name:           Mariann Novack
+Student ID:             1549
+Total Grade:            79
+
+Student Name:           Dianne Plaisted
+Student ID:             2637
+Total Grade:            57
+
+Student Name:           Matilda Poll
+Student ID:             2729
+Total Grade:            75
+
+Student Name:           Anika Pop
+Student ID:             1452
+Total Grade:            76
+
+Student Name:           Luba Quaranta
+Student ID:             2790
+Total Grade:            75
+
+Student Name:           Tamie Roza
+Student ID:             2586
+Total Grade:            93
+
+Student Name:           Joleen Saulnier
+Student ID:             2356
+Total Grade:            81
+
+Student Name:           Holley Sia
+Student ID:             1497
+Total Grade:            74
+
+Student Name:           Matilde Spece
+Student ID:             2917
+Total Grade:            68
+
+Student Name:           Nia Stutes
+Student ID:             2872
+Total Grade:            97
+
+Student Name:           Suzi Tait
+Student ID:             2519
+Total Grade:            82
+
+Student Name:           Adria Tamplin
+Student ID:             2675
+Total Grade:            94
+
+Student Name:           Hyon Thibodaux
+Student ID:             2985
+Total Grade:            87
+
+Student Name:           Yvette Wojtowicz
+Student ID:             2667
+Total Grade:            59
+
+Student Name:           Stasia Wolford
+Student ID:             2193
+Total Grade:            68
+
+Student Name:           Jay Woll
+Student ID:             2986
+Total Grade:            76
+
+Student Name:           Ciera Woolery
+Student ID:             1531
+Total Grade:            81
+
+sdb> LI
+Student Record Database sorted by Student ID
+
+
+Student Name:           Alona Mclees
+Student ID:             1097
+Total Grade:            99
+
+Student Name:           Dante Galentine
+Student ID:             1194
+Total Grade:            89
+
+Student Name:           Barton Mango
+Student ID:             1198
+Total Grade:            68
+
+Student Name:           Caleb Denning
+Student ID:             1257
+Total Grade:            71
+
+Student Name:           Eleanora Hamel
+Student ID:             1266
+Total Grade:            78
+
+Student Name:           Edward Follett
+Student ID:             1345
+Total Grade:            71
+
+Student Name:           Lucia Lally
+Student ID:             1359
+Total Grade:            76
+
+Student Name:           Loree Foor
+Student ID:             1370
+Total Grade:            74
+
+Student Name:           Kortney Arner
+Student ID:             1371
+Total Grade:            84
+
+Student Name:           Anika Pop
+Student ID:             1452
+Total Grade:            76
+
+Student Name:           Vanda Lamarr
+Student ID:             1456
+Total Grade:            82
+
+Student Name:           Holley Sia
+Student ID:             1497
+Total Grade:            74
+
+Student Name:           Sarita Gutierez
+Student ID:             1512
+Total Grade:            95
+
+Student Name:           Ciera Woolery
+Student ID:             1531
+Total Grade:            81
+
+Student Name:           Mariann Novack
+Student ID:             1549
+Total Grade:            79
+
+Student Name:           Suzanna Duff
+Student ID:             1583
+Total Grade:            91
+
+Student Name:           Kamala Harbison
+Student ID:             1645
+Total Grade:            92
+
+Student Name:           Renita Allbright
+Student ID:             1716
+Total Grade:            81
+
+Student Name:           Filomena Leasure
+Student ID:             1946
+Total Grade:            79
+
+Student Name:           Dara Boyette
+Student ID:             1974
+Total Grade:            81
+
+Student Name:           Yuonne Daggett
+Student ID:             2029
+Total Grade:            74
+
+Student Name:           Shantelle Cassady
+Student ID:             2079
+Total Grade:            94
+
+Student Name:           Kristyn Lanoue
+Student ID:             2101
+Total Grade:            72
+
+Student Name:           Kerstin Kohls
+Student ID:             2130
+Total Grade:            92
+
+Student Name:           Clarisa Freeze
+Student ID:             2135
+Total Grade:            70
+
+Student Name:           Billy Ennals
+Student ID:             2191
+Total Grade:            82
+
+Student Name:           Stasia Wolford
+Student ID:             2193
+Total Grade:            68
+
+Student Name:           Tasia Cranford
+Student ID:             2274
+Total Grade:            73
+
+Student Name:           Sammie Mackay
+Student ID:             2330
+Total Grade:            90
+
+Student Name:           Joleen Saulnier
+Student ID:             2356
+Total Grade:            81
+
+Student Name:           Suzi Tait
+Student ID:             2519
+Total Grade:            82
+
+Student Name:           Kori Marsch
+Student ID:             2524
+Total Grade:            65
+
+Student Name:           Dewey Manzi
+Student ID:             2563
+Total Grade:            77
+
+Student Name:           Marvella Greenlee
+Student ID:             2582
+Total Grade:            82
+
+Student Name:           Dorethea Benes
+Student ID:             2583
+Total Grade:            97
+
+Student Name:           Tamie Roza
+Student ID:             2586
+Total Grade:            93
+
+Student Name:           Dianne Plaisted
+Student ID:             2637
+Total Grade:            57
+
+Student Name:           Yvette Wojtowicz
+Student ID:             2667
+Total Grade:            59
+
+Student Name:           Adria Tamplin
+Student ID:             2675
+Total Grade:            94
+
+Student Name:           Francene Aylor
+Student ID:             2728
+Total Grade:            72
+
+Student Name:           Matilda Poll
+Student ID:             2729
+Total Grade:            75
+
+Student Name:           Luba Quaranta
+Student ID:             2790
+Total Grade:            75
+
+Student Name:           Felicita Mushrush
+Student ID:             2825
+Total Grade:            76
+
+Student Name:           Teisha Britto
+Student ID:             2871
+Total Grade:            68
+
+Student Name:           Nia Stutes
+Student ID:             2872
+Total Grade:            97
+
+Student Name:           Matilde Spece
+Student ID:             2917
+Total Grade:            68
+
+Student Name:           Lavinia Jenkinson
+Student ID:             2959
+Total Grade:            86
+
+Student Name:           Cristobal Butcher
+Student ID:             2969
+Total Grade:            77
+
+Student Name:           Hyon Thibodaux
+Student ID:             2985
+Total Grade:            87
+
+Student Name:           Jay Woll
+Student ID:             2986
+Total Grade:            76
+
+sdb> Fn
+Enter name to search: Freeze
+
+Student Name:           Clarisa Freeze
+Student ID:             2135
+Total Grade:            70
+
+sdb> fi
+Enter ID to search: 2519
+
+Student Name:           Suzi Tait
+Student ID:             2519
+Total Grade:            82
+
+sdb> foo
+Command not understood.
+sdb> FN
+Enter name to search: Fubar
+There is no student with that name.
+sdb> FI
+Enter ID to search: 0
+There is no student with that ID.
+sdb> quit
+Program terminated...

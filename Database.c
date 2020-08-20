@@ -3,18 +3,12 @@
 #include <string.h>
 #include <ctype.h>
 
-// To make the "C" implementation completely analogous to Java, one has to create
-// an object for each student record and attach it to a corresponding bNode
-// object in a B-Tree data structure.  These objects are represented by the
-// corresponding structure templates below.
+
 
 #define MAXLEN 20
 #define false 0
 #define true !false
 
-// Prototypes and templates should go in a file called sortFile.h which
-// is subsequently included in sortFile.c.  For a small program like this one,
-// a single file will do.
 
 // Structure Templates
 
@@ -27,9 +21,9 @@ typedef struct SR {				// The student record object
 
 
 
-typedef struct bN {				// The bNode object (not used
-	struct SR *Srec;			// in this demo, but you will
-	struct bN *left;			// need it for A6).
+typedef struct bN {				// The bNode struct
+	struct SR *Srec;		
+	struct bN *left;			
 	struct bN *right;
 } bNode;
 
@@ -39,7 +33,7 @@ typedef struct bN {				// The bNode object (not used
 
 // Function Prototypes
 //
-// Notice that there are two versions of add_node, inorder, and search.
+// There are two versions of add_node, inorder, and search.
 // This is to accommodate sorting the database by last name OR student ID
 // You will have to write these for a6.
 
@@ -54,12 +48,8 @@ void str2upper(char *string);
 void help();
 
 //
-// Since we haven't done pointer-pointers in this course, we'll use a
-// global variable to return the matching student record.  This is
-// equivalent to what we did in Java using an instance variable.
 
 bNode *match;
-
 
 
 // Main entry point is here.  Program uses the standard Command Line Interface
@@ -160,7 +150,7 @@ int main(int argc, char *argv[]) {
 
 
 //
-//  Simple Command Interpreter: - This is commented out until you implement the functions listed above
+
 //
 
 	while (1) {
@@ -328,6 +318,7 @@ bNode *makeNode(SRecord *data){
     return ThisNode;
 }
 
+
 void inorder(bNode *root){
     if(root != NULL) {
       inorder(root->left);
@@ -337,6 +328,8 @@ void inorder(bNode *root){
       inorder(root->right);
    }
 }
+
+
 void search_Name(bNode *root, char *data){
     bNode *current;
     current = root;
@@ -356,6 +349,7 @@ void search_Name(bNode *root, char *data){
     }
 }
 
+
 void search_ID(bNode *root, int ID){
     bNode *current;
     current = root;
@@ -373,13 +367,12 @@ void search_ID(bNode *root, int ID){
         }
     }
 }
-//	Write and insert the functions listed in the prototypes here.
-//
 
 
-//
+
+
+
 //  Convert a string to upper case
-//
 
 void str2upper (char *string) {
     int i;
